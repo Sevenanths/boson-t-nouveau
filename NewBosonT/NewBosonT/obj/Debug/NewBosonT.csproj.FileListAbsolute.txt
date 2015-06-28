@@ -1,0 +1,14 @@
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\bin\Debug\NewBosonT.exe
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\bin\Debug\NewBosonT.pdb
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.csprojResolveAssemblyReference.cache
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.main.resources
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.Properties.Resources.resources
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.csproj.GenerateResource.Cache
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.exe
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.pdb
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.newmain.resources
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\bin\Debug\Interop.WMPLib.dll
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\bin\Debug\AxInterop.WMPLib.dll
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\Interop.WMPLib.dll
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\AxInterop.WMPLib.dll
+Z:\Projecten\bosont_new\NewBosonT\NewBosonT\obj\Debug\NewBosonT.csproj.ResolveComReference.cache
